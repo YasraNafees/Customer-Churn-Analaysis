@@ -1,4 +1,5 @@
 Customer Churn Analysis
+
 Tools Used: Python, Pandas, Matplotlib/Seaborn (Power BI if visualized)
 
 Analyzed telecom customer data to uncover patterns behind a 26.54% churn rate.
